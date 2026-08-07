@@ -1,112 +1,98 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Akhil Shaji
+  Hi 👋 I'm Akhil Shaji
 </h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Machine Learning | Cybersecurity | Web Developer
+Computer Science Engineering Student | AI & ML Enthusiast | Cybersecurity Learner
 </h3>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Cybersecurity+Learner;Flask+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Python+Developer;Flask+Developer;Cybersecurity+Learner;Always+Learning+New+Things!" />
+</p>
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Student
 
-🌱 Currently learning
+🌱 Currently Learning
+
 - Machine Learning
+- Artificial Intelligence
 - Flask
 - Python
 - Cybersecurity
 
-💻 Interested in
-- Artificial Intelligence
+💡 Interests
+
+- AI
+- ML
 - Web Development
-- Data Science
 - Ethical Hacking
 
 🎯 Goal
-> Become an AI Software Engineer
 
-⚡ Fun Fact
-
-I love solving coding problems and building real-world projects.
+Become an AI Software Engineer.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Akhilpkl">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-### Languages
+# 💻 Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
-
 </p>
 
-### Frameworks & Libraries
+---
+
+# 🚀 Frameworks
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap"/>
-
 </p>
 
-### Tools
+---
+
+# 🛠 Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
 </p>
 
 ---
 
 # 🤖 Machine Learning
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-✔ Pandas
-
-✔ NumPy
-
-✔ Scikit-Learn
-
-✔ Matplotlib
-
-✔ Data Analysis
-
-✔ Model Training
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Data Preprocessing
+- Regression Models
+- Classification
+- Feature Engineering
 
 ---
 
@@ -114,9 +100,9 @@ I love solving coding problems and building real-world projects.
 
 ## 🚗 Smart EV Charging Recommendation System
 
-Machine Learning based recommendation system that predicts waiting time and recommends the nearest charging station.
+Machine Learning model to predict waiting time and recommend nearby charging stations.
 
-**Tech**
+**Tech Stack**
 
 Python • Flask • Scikit-Learn • Pandas
 
@@ -124,18 +110,18 @@ Python • Flask • Scikit-Learn • Pandas
 
 ## 📚 Library Management System
 
-Flask + MySQL web application for managing books and members.
+Flask + MySQL based web application.
 
 ---
 
-## 🔐 Cybersecurity Lab
+## 🔐 Vulnerability Assessment Lab
 
-Performed vulnerability assessment using
+Using
 
+- Kali Linux
 - Nmap
 - Nikto
 - Metasploit
-- Kali Linux
 
 ---
 
@@ -143,15 +129,25 @@ Performed vulnerability assessment using
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilpkl&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akhilpkl&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilpkl&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Akhilpkl&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilpkl&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -165,17 +161,7 @@ Performed vulnerability assessment using
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Akhilpkl&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-# 💻 Languages Used
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilpkl&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Akhilpkl&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -183,58 +169,15 @@ Performed vulnerability assessment using
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate this automatically.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@master
-
-        with:
-
-          github_user_name: Akhilpkl
-
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-
-        with:
-
-          target_branch: output
-
-          build_dir: dist
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then display it using
-
-```md
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Akhilpkl/Akhilpkl/output/github-contribution-grid-snake.svg"/>
 
 </p>
-```
 
 ---
 
-# 🎯 Quote
+# 💬 Random Dev Quote
 
 <p align="center">
 
@@ -244,22 +187,40 @@ Then display it using
 
 ---
 
-# ☕ Visitor Count
+# 📅 Coding Activity
+
+<!--START_SECTION:waka-->
+Coming Soon...
+<!--END_SECTION:waka-->
+
+---
+
+# 👀 Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akhilpkl&label=Visitors&color=00C2FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Akhilpkl&style=for-the-badge&color=blue"/>
 
 </p>
 
 ---
 
+# ⭐ Support
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🤝 Connect with me
+
+---
+
 <div align="center">
 
-## ⭐ Thanks for visiting!
+## Thanks for visiting ❤️
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45">
-
-### Show some ❤️ by starring my repositories!
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60"/>
 
 </div>
